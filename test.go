@@ -11,7 +11,10 @@ func FunctionOne() {
 
 }
 
-
 func Function3() {
+	log.Println("33333")
+}
+
+func Function33() {
 	log.Println("33333")
 }
