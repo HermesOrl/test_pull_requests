@@ -5,4 +5,3 @@ import "log"
 func FunctionOne() {
 	log.Println("One")
 }
-
